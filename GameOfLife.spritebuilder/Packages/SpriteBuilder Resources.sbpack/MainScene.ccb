@@ -1032,7 +1032,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string></string>
+													<string>0</string>
 													<false/>
 												</array>
 											</dict>
@@ -1181,6 +1181,8 @@
 												</array>
 											</dict>
 										</array>
+										<key>selected</key>
+										<true/>
 									</dict>
 								</array>
 								<key>customClass</key>
@@ -1916,8 +1918,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
